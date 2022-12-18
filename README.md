@@ -1,5 +1,6 @@
-# Ubuntu 20.04 setup
+# Ubuntu setup
 
+Tested in 20.04
 1. [Network setup](#network-setup)
 2. [Korean setup](#korean-setup)
 3. [Nvidia graphic driver](#nvidia-graphic-driver)
